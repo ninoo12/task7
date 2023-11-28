@@ -1,0 +1,128 @@
+.background {
+    background-image: url(images/background-photo\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+}
+.nav {
+    display: none;
+}
+.nav-list {
+    display: flex;
+    gap: 22px;
+}
+.action {
+    display: none;
+}
+.header1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headline {
+    text-align: center;
+}
+.title {
+    font-size: 4rem;
+}
+.paragraph {
+    font-size: 18px;
+    margin-top: 24px;
+}
+.img3 {
+    margin-top: 24px;
+}
+.paragraph-1 {
+    margin-top: 16px;
+}
+.black-background-1 {
+    background-color: black;
+    height: 523px;
+    text-align: center;
+    margin-top: 24px;
+}
+.black-background-2 {
+    background-color: black;
+    height: 340px;
+    text-align: center;
+}
+.img1 {
+    text-align: center;
+    margin-top: 24px;
+}
+.feauture {
+    display: inline;
+}
+.paragraph-2 {
+    font-size: 1.4rem;
+    color: white;
+    margin-top: 14px;
+}
+.title-1 {
+    font-size: 1.6rem;
+    color: white;
+}
+.span {
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    margin-top: 134px;
+}
+.brand-title {
+    color: white;
+    font-size: 16px;
+}
+.long-headline {
+    margin-top: 12px;
+}
+.white-button {
+    margin-top: 12px;
+}
+.brand-pages {
+    color: white;
+    font-size: 14px;
+}
+.column {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+.long-headline {
+    font-size: 28px;
+    color: white;
+}
+.img2 {
+    margin-top: 24px;
+}
+.feauture-list {
+    margin-top: 30px;
+}
+.whitelogo {
+    display: inline-block;
+    margin-top: 50px;
+}
+.page {
+    margin-top: 8px;
+}
+.biglogo {
+    display: none;
+}
+.img2-bigger-1 {
+    display: none;
+}
+.photo2 {
+    display: none;
+}
+.photo3 {
+    display: none;
+}
+.img2-bigger-2 {
+    display: none;
+}
+.photo4 {
+    display: none;
+}
+.img2-bigger-3 {
+    display: none;
+}
