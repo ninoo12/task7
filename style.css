@@ -1,3 +1,6 @@
+* {
+    font-family: "inter";
+}
 .background {
     background-image: url(images/background-photo\ \(2\).jpg);
     background-repeat: no-repeat;
@@ -55,12 +58,10 @@
     display: inline;
 }
 .paragraph-2 {
-    font-size: 1.4rem;
     color: white;
     margin-top: 14px;
 }
 .title-1 {
-    font-size: 1.6rem;
     color: white;
 }
 .span {
@@ -125,4 +126,10 @@
 }
 .img2-bigger-3 {
     display: none;
+}
+br {
+    display: none;
+}
+.text {
+    margin-top: 14px;
 }

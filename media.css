@@ -79,6 +79,9 @@
     .img2-bigger-3 {
         display: none;
     }
+    .nav-list {
+        gap: 44px;
+    }
 }
 @media all and (min-width:1440px) {
     .background {
@@ -100,17 +103,37 @@
     .title {
         margin-top: 134px;
     }
-    .black-background-2 {
-        display: flex;
-        justify-content: space-between;
+    .black-background-1 {
+        height: 620px;
     }
     .img2-bigger-3 {
         display: inline-block;
+        margin-top: 96px;
     }
     .img2-bigger-2 {
         display: none;
     }
     .text {
-        display: inline;
+        display: block;
+        margin-top: 90px;
+    }
+    .whitelogo {
+        margin-top: 96px
+    }
+    .inside-2 {
+        display: flex;
+        justify-content: space-around;
+    }
+    .inside {
+        display: flex;
+    }
+    .nav-list {
+        gap: 24px;
+    }
+    br {
+        display: block;
+    }
+    .headline-text {
+        margin-top: 48px
     }
 }
